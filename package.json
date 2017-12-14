@@ -5,6 +5,7 @@
   "dependencies": {
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-1": "^6.24.1",
+    "giphy-js-sdk-core": "^1.0.2",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "semantic-ui-css": "^2.2.11",
